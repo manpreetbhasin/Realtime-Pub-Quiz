@@ -1,19 +1,22 @@
 # Realtime Pub Quiz Game
 **A Dutch realtime pub quiz**
 This project was made as a school assignment.\
-**See live demo:** [Demo](https://quiz.aaronvandenberg.nl/)\
+**See live demo:** [Demo]()\    Demo is broken
 *(Demo is in Dutch language)*
 
 ![Screenshot](https://raw.githubusercontent.com/aaron5670/Realtime-Pub-Quizz/master/screenshot.png)
 
 ### Features
-- Build with Nodejs 8.1
-- ReactJS 16
-- React Redux 7.1
-- Redux 4
-- ExpressJS 4.13
-- Mongoose 5.7.6
-- WS (Websockets) 7.1.2
+ 
+  | Lib             | Used      | Current                                  |
+  |-----------------|------------------------------------------|-----------|
+  | Nodejs          | 8.1       |                                          |
+  | ReactJS         | 16        |                                          |
+  | React Redux     | 7.1       |                                          |
+  | Redux           | 4         |                                          |
+  | ExpressJS       | 4.13      |                                          |
+  | Mongoose        | 5.7.6     |                                          |
+  | WS (Websockets) | 7.1.2     | [Link](https://github.com/websockets/ws) |
 
 ### How to install
 
